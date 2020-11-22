@@ -33,5 +33,5 @@ $ present ProjectSlides.md
 
 ## Un exemple !
 
-[Exemple d'un ficheir MD](https://github.com/AntoineMeheut/PresentDemo/blob/main/projectslides/ProjectSlides.md)
+[Exemple d'un ficheir MD](https://github.com/AntoineMeheut/PresentDemo/blob/main/projectslides/)
 
