@@ -13,7 +13,7 @@ L'outil est disponible ici :
 
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/vinayak-mehta/present/master/docs/_static/demo.gif" width="800">
+   <img src="/projectslides/images/sample.gif" width="800">
 </p>
 
 
