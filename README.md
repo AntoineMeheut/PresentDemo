@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AntoineMeheut/PresentDemo/blob/main/images/terminal.jpg" width="200">
+   <img src="https://raw.githubusercontent.com/AntoineMeheut/PresentDemo/blob/main/images/terminal.jpg" width="200">
 </p>
 
 # Que faire avec present !
@@ -28,6 +28,10 @@ $ pip install present
 ## Pour l'utiliser
 
 ```bash
-$ present monfichierdeslides.md
+$ present ProjectSlides.md
 ```
+
+## Un exemple !
+
+[Exemple d'un ficheir MD](https://github.com/AntoineMeheut/PresentDemo/blob/main/projectslides/ProjectSlides.md)
 
