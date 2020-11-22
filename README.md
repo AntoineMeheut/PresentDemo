@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="/images/terminal.jpg" width="200">
+   <img src="https://github.com/AntoineMeheut/PresentDemo/blob/main/images/terminal.jpg?raw=true" width="200">
 </p>
 
 # Que faire avec present !
@@ -13,7 +13,7 @@ L'outil est disponible ici :
 
 
 <p align="center">
-   <img src="/projectslides/images/sample.gif" width="800">
+   <img src="https://github.com/AntoineMeheut/PresentDemo/blob/main/projectslides/images/sample.gif?raw=true" width="800">
 </p>
 
 
