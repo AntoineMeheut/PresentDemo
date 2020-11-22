@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/AntoineMeheut/PresentDemo/blob/main/images/terminal.jpg" width="200">
+   <img src="/images/terminal.jpg" width="200">
 </p>
 
 # Que faire avec present !
