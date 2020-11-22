@@ -5,6 +5,8 @@ Present est une petite application écrite en Python
 qui permet de réaliser instantanément des présentations
 à partir de vos fichiers Markdown en ligne de commande.
 
+[vinayak-mehta/present](https://github.com/vinayak-mehta/present)
+
 ---
 <!-- fg=white bg=black -->
 ## Pour identifier vos slides
